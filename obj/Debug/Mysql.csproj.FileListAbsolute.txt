@@ -1,0 +1,68 @@
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\Mysql.exe.config
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\Mysql.exe
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\Mysql.pdb
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\Google.Protobuf.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\MySql.Data.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Buffers.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Memory.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\ZstdNet.dll
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\Google.Protobuf.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\MySql.Data.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Buffers.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Memory.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC Lenovo\source\repos\Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.csproj.AssemblyReference.cache
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.Form1.resources
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.Properties.Resources.resources
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.csproj.GenerateResource.cache
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.csproj.CoreCompileInputs.cache
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.csproj.CopyComplete
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.exe
+C:\Users\PC Lenovo\source\repos\Mysql\obj\Debug\Mysql.pdb
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\Mysql.exe.config
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\Mysql.exe
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\Mysql.pdb
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\Google.Protobuf.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\MySql.Data.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Buffers.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Memory.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\ZstdNet.dll
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\Google.Protobuf.pdb
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\Google.Protobuf.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\MySql.Data.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Buffers.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Memory.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.csproj.AssemblyReference.cache
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.Form1.resources
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.Properties.Resources.resources
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.csproj.GenerateResource.cache
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.csproj.CoreCompileInputs.cache
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.csproj.CopyComplete
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.exe
+C:\Users\zbeub\Desktop\Bureau\e\Mysql\obj\Debug\Mysql.pdb
